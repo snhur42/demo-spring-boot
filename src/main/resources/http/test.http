@@ -1,0 +1,7 @@
+GET http://localhost:8080/api/person/all
+
+###
+GET http://localhost:8080/api/person/8b2c8422-7ae4-40dc-a44b-7c5fac0948ab
+
+###
+GET http://localhost:8080/api/person/login/login1
